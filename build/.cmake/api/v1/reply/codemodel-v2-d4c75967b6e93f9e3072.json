@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2DSMDM",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2DSMDM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2DSMDM-Debug-aac78c00b7dd0f2b6c19.json",
+					"name" : "2DSMDM",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build",
+		"source" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

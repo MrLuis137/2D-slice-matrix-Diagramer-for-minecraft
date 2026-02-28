@@ -1,0 +1,3 @@
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles/2DSMDM.dir
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles/edit_cache.dir
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles/rebuild_cache.dir

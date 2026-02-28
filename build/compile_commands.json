@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build",
+  "command": "/usr/bin/c++  -I\"/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/usr/include\" -g -std=gnu++17 -o CMakeFiles/2DSMDM.dir/main.cpp.o -c \"/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/main.cpp\"",
+  "file": "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/main.cpp",
+  "output": "CMakeFiles/2DSMDM.dir/main.cpp.o"
+}
+]
