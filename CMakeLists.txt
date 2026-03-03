@@ -17,7 +17,8 @@ include_directories(usr/include/)
 
 add_executable(2DSMDM main.cpp)
 
-target_link_libraries(2DSMDM Pcsfml-graphics 
-    csfml-window 
-    csfml-system 
-    csfml-audio)
+target_link_libraries(2DSMDM 
+    sfml-graphics 
+    sfml-window 
+    sfml-system 
+    sfml-audio)
