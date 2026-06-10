@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/CMakeFiles/nfd-populate"
+		},
+		{
+			"file" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/CMakeFiles/nfd-populate.rule"
+		},
+		{
+			"file" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/CMakeFiles/nfd-populate-complete.rule"
+		},
+		{
+			"file" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-build.rule"
+		},
+		{
+			"file" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-configure.rule"
+		},
+		{
+			"file" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-download.rule"
+		},
+		{
+			"file" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-install.rule"
+		},
+		{
+			"file" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-mkdir.rule"
+		},
+		{
+			"file" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-patch.rule"
+		},
+		{
+			"file" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-test.rule"
+		},
+		{
+			"file" : "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nfd-populate"
+		],
+		"name" : "nfd-populate"
+	}
+}

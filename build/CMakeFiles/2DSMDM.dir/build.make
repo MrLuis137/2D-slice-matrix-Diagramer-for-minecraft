@@ -86,18 +86,178 @@ CMakeFiles/2DSMDM.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2DSMDM.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/main.cpp" -o CMakeFiles/2DSMDM.dir/main.cpp.s
 
+CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.o: CMakeFiles/2DSMDM.dir/flags.make
+CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.o: /run/media/mrluis137/linux-Z/Documentos\ Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/layer/layer.cpp
+CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.o: CMakeFiles/2DSMDM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.o -MF CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.o.d -o CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.o -c "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/layer/layer.cpp"
+
+CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/layer/layer.cpp" > CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.i
+
+CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/layer/layer.cpp" -o CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.s
+
+CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.o: CMakeFiles/2DSMDM.dir/flags.make
+CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.o: /run/media/mrluis137/linux-Z/Documentos\ Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/topMenu/topMenu.cpp
+CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.o: CMakeFiles/2DSMDM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.o -MF CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.o.d -o CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.o -c "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/topMenu/topMenu.cpp"
+
+CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/topMenu/topMenu.cpp" > CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.i
+
+CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/topMenu/topMenu.cpp" -o CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.s
+
+CMakeFiles/2DSMDM.dir/src/button/button.cpp.o: CMakeFiles/2DSMDM.dir/flags.make
+CMakeFiles/2DSMDM.dir/src/button/button.cpp.o: /run/media/mrluis137/linux-Z/Documentos\ Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/button/button.cpp
+CMakeFiles/2DSMDM.dir/src/button/button.cpp.o: CMakeFiles/2DSMDM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/2DSMDM.dir/src/button/button.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2DSMDM.dir/src/button/button.cpp.o -MF CMakeFiles/2DSMDM.dir/src/button/button.cpp.o.d -o CMakeFiles/2DSMDM.dir/src/button/button.cpp.o -c "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/button/button.cpp"
+
+CMakeFiles/2DSMDM.dir/src/button/button.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2DSMDM.dir/src/button/button.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/button/button.cpp" > CMakeFiles/2DSMDM.dir/src/button/button.cpp.i
+
+CMakeFiles/2DSMDM.dir/src/button/button.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2DSMDM.dir/src/button/button.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/src/button/button.cpp" -o CMakeFiles/2DSMDM.dir/src/button/button.cpp.s
+
+CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.o: CMakeFiles/2DSMDM.dir/flags.make
+CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.o: /run/media/mrluis137/linux-Z/Documentos\ Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui.cpp
+CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.o: CMakeFiles/2DSMDM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.o -MF CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.o.d -o CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.o -c "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui.cpp"
+
+CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui.cpp" > CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.i
+
+CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui.cpp" -o CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.s
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.o: CMakeFiles/2DSMDM.dir/flags.make
+CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.o: /run/media/mrluis137/linux-Z/Documentos\ Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_draw.cpp
+CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.o: CMakeFiles/2DSMDM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.o -MF CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.o.d -o CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.o -c "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_draw.cpp"
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_draw.cpp" > CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.i
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_draw.cpp" -o CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.s
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.o: CMakeFiles/2DSMDM.dir/flags.make
+CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.o: /run/media/mrluis137/linux-Z/Documentos\ Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_tables.cpp
+CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.o: CMakeFiles/2DSMDM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.o -MF CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.o.d -o CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.o -c "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_tables.cpp"
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_tables.cpp" > CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.i
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_tables.cpp" -o CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.s
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.o: CMakeFiles/2DSMDM.dir/flags.make
+CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.o: /run/media/mrluis137/linux-Z/Documentos\ Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_widgets.cpp
+CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.o: CMakeFiles/2DSMDM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.o -MF CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.o.d -o CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.o -c "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_widgets.cpp"
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_widgets.cpp" > CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.i
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_widgets.cpp" -o CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.s
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.o: CMakeFiles/2DSMDM.dir/flags.make
+CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.o: /run/media/mrluis137/linux-Z/Documentos\ Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_demo.cpp
+CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.o: CMakeFiles/2DSMDM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.o -MF CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.o.d -o CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.o -c "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_demo.cpp"
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_demo.cpp" > CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.i
+
+CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui/imgui_demo.cpp" -o CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.s
+
+CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.o: CMakeFiles/2DSMDM.dir/flags.make
+CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.o: /run/media/mrluis137/linux-Z/Documentos\ Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui-sfml/imgui-SFML.cpp
+CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.o: CMakeFiles/2DSMDM.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.o -MF CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.o.d -o CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.o -c "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui-sfml/imgui-SFML.cpp"
+
+CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui-sfml/imgui-SFML.cpp" > CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.i
+
+CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/imgui-sfml/imgui-SFML.cpp" -o CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.s
+
 # Object files for target 2DSMDM
 2DSMDM_OBJECTS = \
-"CMakeFiles/2DSMDM.dir/main.cpp.o"
+"CMakeFiles/2DSMDM.dir/main.cpp.o" \
+"CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.o" \
+"CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.o" \
+"CMakeFiles/2DSMDM.dir/src/button/button.cpp.o" \
+"CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.o" \
+"CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.o" \
+"CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.o" \
+"CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.o" \
+"CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.o" \
+"CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.o"
 
 # External object files for target 2DSMDM
 2DSMDM_EXTERNAL_OBJECTS =
 
 2DSMDM: CMakeFiles/2DSMDM.dir/main.cpp.o
+2DSMDM: CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.o
+2DSMDM: CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.o
+2DSMDM: CMakeFiles/2DSMDM.dir/src/button/button.cpp.o
+2DSMDM: CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.o
+2DSMDM: CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.o
+2DSMDM: CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.o
+2DSMDM: CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.o
+2DSMDM: CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.o
+2DSMDM: CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.o
 2DSMDM: CMakeFiles/2DSMDM.dir/build.make
 2DSMDM: CMakeFiles/2DSMDM.dir/compiler_depend.ts
+2DSMDM: _deps/nfd-build/src/libnfd.a
+2DSMDM: /usr/lib64/libgtk-3.so
+2DSMDM: /usr/lib64/libgdk-3.so
+2DSMDM: /usr/lib64/libz.so
+2DSMDM: /usr/lib64/libpangocairo-1.0.so
+2DSMDM: /usr/lib64/libpango-1.0.so
+2DSMDM: /usr/lib64/libharfbuzz.so
+2DSMDM: /usr/lib64/libatk-1.0.so
+2DSMDM: /usr/lib64/libcairo-gobject.so
+2DSMDM: /usr/lib64/libcairo.so
+2DSMDM: /usr/lib64/libgdk_pixbuf-2.0.so
+2DSMDM: /usr/lib64/libgio-2.0.so
+2DSMDM: /usr/lib64/libgobject-2.0.so
+2DSMDM: /usr/lib64/libglib-2.0.so
+2DSMDM: /usr/lib64/libwayland-client.so
+2DSMDM: /usr/lib64/libm.so
 2DSMDM: CMakeFiles/2DSMDM.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 2DSMDM"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable 2DSMDM"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/2DSMDM.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

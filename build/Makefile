@@ -129,6 +129,163 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/build
 .PHONY : 2DSMDM/fast
 
+#=============================================================================
+# Target rules for targets named nfd
+
+# Build rule for target.
+nfd: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 nfd
+.PHONY : nfd
+
+# fast build rule for target.
+nfd/fast:
+	$(MAKE) $(MAKESILENT) -f _deps/nfd-build/src/CMakeFiles/nfd.dir/build.make _deps/nfd-build/src/CMakeFiles/nfd.dir/build
+.PHONY : nfd/fast
+
+imgui-sfml/imgui-SFML.o: imgui-sfml/imgui-SFML.cpp.o
+.PHONY : imgui-sfml/imgui-SFML.o
+
+# target to build an object file
+imgui-sfml/imgui-SFML.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.o
+.PHONY : imgui-sfml/imgui-SFML.cpp.o
+
+imgui-sfml/imgui-SFML.i: imgui-sfml/imgui-SFML.cpp.i
+.PHONY : imgui-sfml/imgui-SFML.i
+
+# target to preprocess a source file
+imgui-sfml/imgui-SFML.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.i
+.PHONY : imgui-sfml/imgui-SFML.cpp.i
+
+imgui-sfml/imgui-SFML.s: imgui-sfml/imgui-SFML.cpp.s
+.PHONY : imgui-sfml/imgui-SFML.s
+
+# target to generate assembly for a file
+imgui-sfml/imgui-SFML.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui-sfml/imgui-SFML.cpp.s
+.PHONY : imgui-sfml/imgui-SFML.cpp.s
+
+imgui/imgui.o: imgui/imgui.cpp.o
+.PHONY : imgui/imgui.o
+
+# target to build an object file
+imgui/imgui.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.o
+.PHONY : imgui/imgui.cpp.o
+
+imgui/imgui.i: imgui/imgui.cpp.i
+.PHONY : imgui/imgui.i
+
+# target to preprocess a source file
+imgui/imgui.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.i
+.PHONY : imgui/imgui.cpp.i
+
+imgui/imgui.s: imgui/imgui.cpp.s
+.PHONY : imgui/imgui.s
+
+# target to generate assembly for a file
+imgui/imgui.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui.cpp.s
+.PHONY : imgui/imgui.cpp.s
+
+imgui/imgui_demo.o: imgui/imgui_demo.cpp.o
+.PHONY : imgui/imgui_demo.o
+
+# target to build an object file
+imgui/imgui_demo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.o
+.PHONY : imgui/imgui_demo.cpp.o
+
+imgui/imgui_demo.i: imgui/imgui_demo.cpp.i
+.PHONY : imgui/imgui_demo.i
+
+# target to preprocess a source file
+imgui/imgui_demo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.i
+.PHONY : imgui/imgui_demo.cpp.i
+
+imgui/imgui_demo.s: imgui/imgui_demo.cpp.s
+.PHONY : imgui/imgui_demo.s
+
+# target to generate assembly for a file
+imgui/imgui_demo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_demo.cpp.s
+.PHONY : imgui/imgui_demo.cpp.s
+
+imgui/imgui_draw.o: imgui/imgui_draw.cpp.o
+.PHONY : imgui/imgui_draw.o
+
+# target to build an object file
+imgui/imgui_draw.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.o
+.PHONY : imgui/imgui_draw.cpp.o
+
+imgui/imgui_draw.i: imgui/imgui_draw.cpp.i
+.PHONY : imgui/imgui_draw.i
+
+# target to preprocess a source file
+imgui/imgui_draw.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.i
+.PHONY : imgui/imgui_draw.cpp.i
+
+imgui/imgui_draw.s: imgui/imgui_draw.cpp.s
+.PHONY : imgui/imgui_draw.s
+
+# target to generate assembly for a file
+imgui/imgui_draw.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_draw.cpp.s
+.PHONY : imgui/imgui_draw.cpp.s
+
+imgui/imgui_tables.o: imgui/imgui_tables.cpp.o
+.PHONY : imgui/imgui_tables.o
+
+# target to build an object file
+imgui/imgui_tables.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.o
+.PHONY : imgui/imgui_tables.cpp.o
+
+imgui/imgui_tables.i: imgui/imgui_tables.cpp.i
+.PHONY : imgui/imgui_tables.i
+
+# target to preprocess a source file
+imgui/imgui_tables.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.i
+.PHONY : imgui/imgui_tables.cpp.i
+
+imgui/imgui_tables.s: imgui/imgui_tables.cpp.s
+.PHONY : imgui/imgui_tables.s
+
+# target to generate assembly for a file
+imgui/imgui_tables.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_tables.cpp.s
+.PHONY : imgui/imgui_tables.cpp.s
+
+imgui/imgui_widgets.o: imgui/imgui_widgets.cpp.o
+.PHONY : imgui/imgui_widgets.o
+
+# target to build an object file
+imgui/imgui_widgets.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.o
+.PHONY : imgui/imgui_widgets.cpp.o
+
+imgui/imgui_widgets.i: imgui/imgui_widgets.cpp.i
+.PHONY : imgui/imgui_widgets.i
+
+# target to preprocess a source file
+imgui/imgui_widgets.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.i
+.PHONY : imgui/imgui_widgets.cpp.i
+
+imgui/imgui_widgets.s: imgui/imgui_widgets.cpp.s
+.PHONY : imgui/imgui_widgets.s
+
+# target to generate assembly for a file
+imgui/imgui_widgets.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/imgui/imgui_widgets.cpp.s
+.PHONY : imgui/imgui_widgets.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -153,6 +310,78 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/button/button.o: src/button/button.cpp.o
+.PHONY : src/button/button.o
+
+# target to build an object file
+src/button/button.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/src/button/button.cpp.o
+.PHONY : src/button/button.cpp.o
+
+src/button/button.i: src/button/button.cpp.i
+.PHONY : src/button/button.i
+
+# target to preprocess a source file
+src/button/button.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/src/button/button.cpp.i
+.PHONY : src/button/button.cpp.i
+
+src/button/button.s: src/button/button.cpp.s
+.PHONY : src/button/button.s
+
+# target to generate assembly for a file
+src/button/button.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/src/button/button.cpp.s
+.PHONY : src/button/button.cpp.s
+
+src/layer/layer.o: src/layer/layer.cpp.o
+.PHONY : src/layer/layer.o
+
+# target to build an object file
+src/layer/layer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.o
+.PHONY : src/layer/layer.cpp.o
+
+src/layer/layer.i: src/layer/layer.cpp.i
+.PHONY : src/layer/layer.i
+
+# target to preprocess a source file
+src/layer/layer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.i
+.PHONY : src/layer/layer.cpp.i
+
+src/layer/layer.s: src/layer/layer.cpp.s
+.PHONY : src/layer/layer.s
+
+# target to generate assembly for a file
+src/layer/layer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/src/layer/layer.cpp.s
+.PHONY : src/layer/layer.cpp.s
+
+src/topMenu/topMenu.o: src/topMenu/topMenu.cpp.o
+.PHONY : src/topMenu/topMenu.o
+
+# target to build an object file
+src/topMenu/topMenu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.o
+.PHONY : src/topMenu/topMenu.cpp.o
+
+src/topMenu/topMenu.i: src/topMenu/topMenu.cpp.i
+.PHONY : src/topMenu/topMenu.i
+
+# target to preprocess a source file
+src/topMenu/topMenu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.i
+.PHONY : src/topMenu/topMenu.cpp.i
+
+src/topMenu/topMenu.s: src/topMenu/topMenu.cpp.s
+.PHONY : src/topMenu/topMenu.s
+
+# target to generate assembly for a file
+src/topMenu/topMenu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/src/topMenu/topMenu.cpp.s
+.PHONY : src/topMenu/topMenu.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,9 +391,37 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... 2DSMDM"
+	@echo "... nfd"
+	@echo "... imgui-sfml/imgui-SFML.o"
+	@echo "... imgui-sfml/imgui-SFML.i"
+	@echo "... imgui-sfml/imgui-SFML.s"
+	@echo "... imgui/imgui.o"
+	@echo "... imgui/imgui.i"
+	@echo "... imgui/imgui.s"
+	@echo "... imgui/imgui_demo.o"
+	@echo "... imgui/imgui_demo.i"
+	@echo "... imgui/imgui_demo.s"
+	@echo "... imgui/imgui_draw.o"
+	@echo "... imgui/imgui_draw.i"
+	@echo "... imgui/imgui_draw.s"
+	@echo "... imgui/imgui_tables.o"
+	@echo "... imgui/imgui_tables.i"
+	@echo "... imgui/imgui_tables.s"
+	@echo "... imgui/imgui_widgets.o"
+	@echo "... imgui/imgui_widgets.i"
+	@echo "... imgui/imgui_widgets.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... src/button/button.o"
+	@echo "... src/button/button.i"
+	@echo "... src/button/button.s"
+	@echo "... src/layer/layer.o"
+	@echo "... src/layer/layer.i"
+	@echo "... src/layer/layer.s"
+	@echo "... src/topMenu/topMenu.o"
+	@echo "... src/topMenu/topMenu.i"
+	@echo "... src/topMenu/topMenu.s"
 .PHONY : help
 
 

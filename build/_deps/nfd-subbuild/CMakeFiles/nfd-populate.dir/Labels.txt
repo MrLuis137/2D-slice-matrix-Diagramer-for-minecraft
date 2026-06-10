@@ -1,0 +1,14 @@
+# Target labels
+ nfd-populate
+# Source files and their labels
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/CMakeFiles/nfd-populate
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/CMakeFiles/nfd-populate.rule
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/CMakeFiles/nfd-populate-complete.rule
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-build.rule
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-configure.rule
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-download.rule
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-install.rule
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-mkdir.rule
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-patch.rule
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-test.rule
+/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/_deps/nfd-subbuild/nfd-populate-prefix/src/nfd-populate-stamp/nfd-populate-update.rule

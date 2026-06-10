@@ -64,33 +64,74 @@ CMAKE_BINARY_DIR = "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraf
 
 # The main recursive "all" target.
 all: CMakeFiles/2DSMDM.dir/all
+all: _deps/nfd-build/all
 .PHONY : all
 
 # The main recursive "codegen" target.
 codegen: CMakeFiles/2DSMDM.dir/codegen
+codegen: _deps/nfd-build/codegen
 .PHONY : codegen
 
 # The main recursive "preinstall" target.
-preinstall:
+preinstall: _deps/nfd-build/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
 clean: CMakeFiles/2DSMDM.dir/clean
+clean: _deps/nfd-build/clean
 .PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory _deps/nfd-build
+
+# Recursive "all" directory target.
+_deps/nfd-build/all: _deps/nfd-build/src/all
+.PHONY : _deps/nfd-build/all
+
+# Recursive "codegen" directory target.
+_deps/nfd-build/codegen: _deps/nfd-build/src/codegen
+.PHONY : _deps/nfd-build/codegen
+
+# Recursive "preinstall" directory target.
+_deps/nfd-build/preinstall: _deps/nfd-build/src/preinstall
+.PHONY : _deps/nfd-build/preinstall
+
+# Recursive "clean" directory target.
+_deps/nfd-build/clean: _deps/nfd-build/src/clean
+.PHONY : _deps/nfd-build/clean
+
+#=============================================================================
+# Directory level rules for directory _deps/nfd-build/src
+
+# Recursive "all" directory target.
+_deps/nfd-build/src/all: _deps/nfd-build/src/CMakeFiles/nfd.dir/all
+.PHONY : _deps/nfd-build/src/all
+
+# Recursive "codegen" directory target.
+_deps/nfd-build/src/codegen: _deps/nfd-build/src/CMakeFiles/nfd.dir/codegen
+.PHONY : _deps/nfd-build/src/codegen
+
+# Recursive "preinstall" directory target.
+_deps/nfd-build/src/preinstall:
+.PHONY : _deps/nfd-build/src/preinstall
+
+# Recursive "clean" directory target.
+_deps/nfd-build/src/clean: _deps/nfd-build/src/CMakeFiles/nfd.dir/clean
+.PHONY : _deps/nfd-build/src/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/2DSMDM.dir
 
 # All Build rule for target.
-CMakeFiles/2DSMDM.dir/all:
+CMakeFiles/2DSMDM.dir/all: _deps/nfd-build/src/CMakeFiles/nfd.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=1,2 "Built target 2DSMDM"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target 2DSMDM"
 .PHONY : CMakeFiles/2DSMDM.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2DSMDM.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" 16
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/2DSMDM.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" 0
 .PHONY : CMakeFiles/2DSMDM.dir/rule
@@ -102,13 +143,45 @@ CMakeFiles/2DSMDM.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/2DSMDM.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=1,2 "Finished codegen for target 2DSMDM"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Finished codegen for target 2DSMDM"
 .PHONY : CMakeFiles/2DSMDM.dir/codegen
 
 # clean rule for target.
 CMakeFiles/2DSMDM.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2DSMDM.dir/build.make CMakeFiles/2DSMDM.dir/clean
 .PHONY : CMakeFiles/2DSMDM.dir/clean
+
+#=============================================================================
+# Target rules for target _deps/nfd-build/src/CMakeFiles/nfd.dir
+
+# All Build rule for target.
+_deps/nfd-build/src/CMakeFiles/nfd.dir/all:
+	$(MAKE) $(MAKESILENT) -f _deps/nfd-build/src/CMakeFiles/nfd.dir/build.make _deps/nfd-build/src/CMakeFiles/nfd.dir/depend
+	$(MAKE) $(MAKESILENT) -f _deps/nfd-build/src/CMakeFiles/nfd.dir/build.make _deps/nfd-build/src/CMakeFiles/nfd.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=12,13,14,15,16 "Built target nfd"
+.PHONY : _deps/nfd-build/src/CMakeFiles/nfd.dir/all
+
+# Build rule for subdir invocation for target.
+_deps/nfd-build/src/CMakeFiles/nfd.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" 5
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/nfd-build/src/CMakeFiles/nfd.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" 0
+.PHONY : _deps/nfd-build/src/CMakeFiles/nfd.dir/rule
+
+# Convenience name for target.
+nfd: _deps/nfd-build/src/CMakeFiles/nfd.dir/rule
+.PHONY : nfd
+
+# codegen rule for target.
+_deps/nfd-build/src/CMakeFiles/nfd.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f _deps/nfd-build/src/CMakeFiles/nfd.dir/build.make _deps/nfd-build/src/CMakeFiles/nfd.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/build/CMakeFiles" --progress-num=12,13,14,15,16 "Finished codegen for target nfd"
+.PHONY : _deps/nfd-build/src/CMakeFiles/nfd.dir/codegen
+
+# clean rule for target.
+_deps/nfd-build/src/CMakeFiles/nfd.dir/clean:
+	$(MAKE) $(MAKESILENT) -f _deps/nfd-build/src/CMakeFiles/nfd.dir/build.make _deps/nfd-build/src/CMakeFiles/nfd.dir/clean
+.PHONY : _deps/nfd-build/src/CMakeFiles/nfd.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

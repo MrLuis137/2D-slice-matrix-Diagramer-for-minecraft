@@ -8,9 +8,11 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "/run/media/mrluis137/linux-Z/Documentos Locales/Git/Minecraft_2D_Diagrammer/2D-slice-matrix-Diagramer-for-minecraft/CMakeLists.txt"
-  "CMakeFiles/3.31.10/CMakeCCompiler.cmake"
-  "CMakeFiles/3.31.10/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.31.10/CMakeSystem.cmake"
+  "CMakeFiles/3.31.11/CMakeCCompiler.cmake"
+  "CMakeFiles/3.31.11/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.31.11/CMakeSystem.cmake"
+  "_deps/nfd-src/CMakeLists.txt"
+  "_deps/nfd-src/src/CMakeLists.txt"
   "/usr/share/cmake/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake/Modules/CMakeCXXInformation.cmake"
   "/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
@@ -23,6 +25,10 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake/Modules/Compiler/GNU-C.cmake"
   "/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake"
   "/usr/share/cmake/Modules/Compiler/GNU.cmake"
+  "/usr/share/cmake/Modules/ExternalProject/shared_internal_commands.cmake"
+  "/usr/share/cmake/Modules/FetchContent.cmake"
+  "/usr/share/cmake/Modules/FetchContent/CMakeLists.cmake.in"
+  "/usr/share/cmake/Modules/FindGit.cmake"
   "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
   "/usr/share/cmake/Modules/FindPackageMessage.cmake"
   "/usr/share/cmake/Modules/FindPkgConfig.cmake"
@@ -52,10 +58,14 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+  "_deps/nfd-subbuild/CMakeLists.txt"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "_deps/nfd-build/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "_deps/nfd-build/src/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/2DSMDM.dir/DependInfo.cmake"
+  "_deps/nfd-build/src/CMakeFiles/nfd.dir/DependInfo.cmake"
   )
