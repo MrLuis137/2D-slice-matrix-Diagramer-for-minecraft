@@ -14,3 +14,5 @@ build/CMakeFiles/2DSMDM.dir/main.cpp.o.d
 build/CMakeFiles/Progress/1
 build/CMakeFiles/Progress/2
 build/CMakeFiles/Progress/count.txt
+imgui
+imgui-sfml
